@@ -1,8 +1,8 @@
-# Docker Multi-Container Project: WordPress with MySQL
+# Devops Project: Multi-Container WordPress and MySQL Deployment with Docker
 
 ## Project Overview
-This project sets up a WordPress site with a MySQL database using Docker and Docker Compose. By leveraging Docker’s multi-container orchestration, WordPress and MySQL are isolated in their own containers, creating a portable and easily replicable environment for CMS-based web applications. This setup enables developers to deploy WordPress locally on `http://localhost:8080` and connect it seamlessly with a MySQL backend.
+This DevOps project sets up a local, multi-container environment using Docker and Docker Compose to deploy WordPress with a MySQL database. The environment is tailored for team collaboration, leveraging GitHub as a central repository to streamline code sharing, version control, and project management. By containerizing the services, the project ensures a consistent development environment for all team members.
 
 
-![alt text](<WhatsApp Image 2024-11-06 at 14.56.29_9a9733ae.jpg>)
-![alt text](<WhatsApp Image 2024-11-06 at 14.56.29_0387f4ef.jpg>)
+![alt text](<WhatsApp Image 2024-11-06 at 23.00.43_89a1fdab.jpg>)
+![alt text](<WhatsApp Image 2024-11-06 at 23.00.43_ef5c6deb.jpg>)
